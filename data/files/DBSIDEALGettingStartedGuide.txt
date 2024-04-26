@@ -1,0 +1,365 @@
+# DBS IDEAL Getting Started Guide
+
+In need of an Internet banking system that can fulfill all business needs with ease? We are making DBS IDEAL faster, simpler, and smarter.
+
+www.dbs.com.sg | Living, Breathing Asia
+---
+## Overview of IDEAL 3.0
+
+What you need to begin
+
+For a smooth experience while using DBS IDEAL, ensure your computer or laptop is equipped with the following:
+
+- Latest 2 versions of major browsers i.e Internet Explorer 11 (and above), Firefox, Chrome or Safari
+- Broadband Internet Access
+- Adobe Acrobat Reader version 5 and above for report generation (http://www.adobe.com)
+- Turn off your pop-up blocker or include https://ideal.dbs.com in the pop-up blockers exclusion list
+- 7zip or equivalent software to unzip encrypted reports sent to you
+
+You will receive the IDEAL welcome pack that contains the following items:
+
+- Login Credentials
+- - Organisation ID
+- User ID
+- One Time Registration Code
+
+Security Device
+
+Please ensure that you have provided us with a valid email address and mobile number to facilitate your first time registration.
+
+You will be required to set a new Login Pin on the first page.
+
+Note: If you have forgotten your PIN after logging in, please use “Forgot Login PIN” on the main page.
+
+Contents
+
+What you need to begin
+3
+---
+## How to login
+
+Get ready to improve the way you do business. The following easy steps are all you need to take to begin transacting online. This is your launch pad with all your banking information at a glance.
+
+To access the login page, enter https://ideal.dbs.com/ in your browser.
+
+## How to use the dashboard
+
+Here’s how to customise the Dashboard to access the information you need most frequently.
+
+|DBS|5|6|1|6|8|
+|---|---|---|---|---|---|
+|1|DBS IDEAL|23|5| | |
+|2| |4| | | |
+| | |3| | | |
+|4| | |7| | |
+
+Login using Org ID and User ID
+
+- View latest security threats
+- For ways to reach us
+- Manage Multiple Companies
+- Enquire - Balances
+
+Access your multiple companies from the drop-down menu. The top 5 Accounts, Fixed Deposits, and Loans balances will be displayed.
+
+Input Registration Code for first-time login
+
+- Reset your Login PIN if you have forgotten it
+- Select your language of choice
+- You may also set one a group company as the default company
+
+Outstanding / Pending Alerts
+
+Stay informed of outstanding or pending approvals.
+
+Make
+
+Access different creation functions such as Make a Single Payment and Manage Beneficiary Details.
+---
+## Edit Function
+
+Customise what you would like to see on the dashboard with this function. You may edit the shortcuts you wish to have on your Dashboard. With IDEAL, you can view and easily export your account balances and transaction details from up to 6 months back.
+
+## Quick Search Function
+
+An easy-access Search function lets you search for cheques, payments, and recent activities, including Trade transactions and documents.
+
+## Edit - Shortcuts
+
+How to view your account balances
+
+To view your account balances:
+
+- To get to Balances
+- Accounts > Balances
+
+## Resources
+
+View the latest release notes, user guides, and up-to-date product information.
+
+|Archived Statement|To get to Activities|
+|---|---|
+|1. Access your balances of up to past 6 months
+2. Export Statement
+3. Account Balance
+|1. Click on Account in Balances (See next page for details)
+2. Consolidated Balance - View your latest balance, consolidated under your preferred currency
+|
+
+## How to use the dashboard
+
+How to view your account balances
+---
+## To view your transaction details
+
+How to manage your cheques
+
+The Cheque Status Search will automatically fetch and display all cheques in historical order, including the Payee Name, Amount, and Customer Reference. Users may now also initiate a Stop Cheque request immediately from the Cheque Inquiry screen.
+
+|1|Archived Statement|4|Advice|
+|---|---|---|---|
+|Access up to 6 months of your past statements to help you reconcile your accounts|View your Account Transfer, Domestic Transfer, and Telegraphic Transfer transaction advices with a single click|1|Filter Function|
+| | |2|Stop Cheque|
+| | |Search for a particular cheque|Initiate a stop cheque directly from this screen|
+
+|2|Account Summary|
+|---|---|
+|Get an overview of your account – including balances, overdraft limit, and hold amount| |
+
+|3|Enhanced Statement Information|
+|---|---|
+|Your account statement gives you more information for easier reconciliation| |
+
+How to view your account balances
+
+How to manage your cheques
+---
+## How to view reports
+
+You can now personalise and schedule your reports to be viewed at your convenience. Export to PDF, Excel, PowerPoint, and RTF formats. Print report.
+
+|1|Click to view report|
+|---|---|
+| |and|
+| |to manage your reports|
+| |Search Download|
+|2|Click Personalize to personalize report. Personalized report filter criteria will be saved here for re-use.|
+
+To get to Reports Accounts ›› Reports
+
+DKS Outgoing Account transfer
+
+How to view reports
+---
+## Scheduling your report to be sent to your email
+
+To get to Report Scheduling, click Schedule Report Export. Click to schedule a report. You may also password protect your report.
+
+|Accounts|Schedule|Report|Export|Click|
+|---|---|---|---|---|
+|Crlic Schedulcd Roporupat| | | | |
+
+At the scheduled time, the report will be sent to your designated email.
+
+How to view reports
+---
+### Templates
+
+How to make payments
+
+Create templates for recurring payments and utilise them in the future.
+
+DBS IDEAL provides you with various payment instruments for your different online payments.
+
+4 ways to make payments easily:
+
+1. Transfer Wizard
+2. Copy
+3. Templates
+4. File Upload
+
+1. Transfer Wizard: Guides you to select the appropriate payment type.
+
+2. Copy: Select the transaction you wish to copy from the Transfer Centre.
+
+The copy function allows you to create a copy of the selected transaction.
+
+To get to Templates: Payments &gt; Tools &gt; Templates
+
+To get to Transfer Wizard: Payments &gt; Transfer Wizard
+
+1. Select your bank account to debit from, bank to send payment to, and payment currency.
+
+2. Transfer Wizard will show the available Payment Types for your use.
+
+To get to File Upload: Payments &gt; File Transfer &gt; Upload Profiles
+
+How to make payments
+---
+## How to utilise your FX contract
+
+Use preferential rates of your FX contracts (up to 2 FX contracts) for your payments and transfers.
+
+To use your FX contract:
+
+- Search Results for FX Contract
+- Allocation
+- Select the FX contract that you have previously booked (applicable for selected countries only)
+
+## How to approve transactions
+
+To get to Approval List:
+
+- Payments
+- My Approvals
+
+Payment form
+
+1. Select payment to approve
+2. Click Approve Payment
+3. View a summary of transactions to be approved
+---
+## How to manage your beneficiaries
+
+You can create and save your frequently used beneficiaries so that you can easily use them again for your payments in the future.
+
+To create beneficiaries
+
+To get to Beneficiary Library
+
+Payments > Tools > Beneficiaries
+
+On your payment forms, search through your list of beneficiaries. Send payments without having to input all beneficiary details again.
+
+To send advices to your beneficiaries
+
+1. Create new beneficiary for Domestic Transfer or Telegraphic Transfer
+2. Send payment advices to your beneficiaries upon successful transaction via Fax or Email
+
+Bank lookup: This function provides you wip relevant bank details required for your transfer
+Enter pe bank name
+System displays a list of banks based on your input for your selection
+---
+How to use alerts and reminders
+
+|Click|Crcoto|to create an alert|Cmato Alon|
+|---|---|---|---|
+|Now, you will never miss a payment due date or account balance with this highly efficient alert feature.| | | |
+|You can implement personalised alerts and reminders to yourself.| | | |
+|To create an alert| | | |
+|Create various alert types to notify you of important situations like high and low account balances; and upcoming payment overdue.| | | |
+|Manage your alerts and reminders| | | |
+|Preferences|››|Alerts|/ Reminders|
+| | |Click|Crooto|to create a reminder and have it send to you at your designated time|
+| | |Create|Romenoer|
+|Click|Edlt Daron|Hcthan|to specify your delivery method for your alerts and reminders|
+|Alen delyen|Hatnco| | |
+|Alcrt Colltor| | | |
+
+How to use alerts and reminders
+---
+## How to use mobile banking
+
+You can now use IDEAL Mobile to book FX contracts. This new feature is available to all DealOnline customers, and even boasts the same preferential rates as that on DealOnline.
+
+DBS IDEAL Mobile app allows you to login with just your PIN so that you can view your banking information such as account balances and cheque status easily. You can also now make payments quickly and approve them anytime, anywhere.
+
+Contracts can be booked in the following options:
+
+- Outright (Full settlement in one go)
+- Time Option (Partial settlement over a period of time)
+
+Book a deal in 3 simple steps:
+
+1. Get Quote
+2. Make Booking
+3. Booking Successful
+
+Download the IDEAL mobile application from the Apple App Store and Google Play Store.
+
+|Content|Page Number|
+|---|---|
+|How to use mobile banking|22|
+|How to use mobile banking|23|
+---
+To search for a particular trade transaction
+
+How to view trade transactions
+You can view your trade transactions via recent activities or by performing a trade inquiry.
+To get to Transaction
+
+To view your recent trade transactions
+To get to Recent Activities
+
+Trade Finance ›› Manage ›› Recent Activity
+
+Click to filter your displayed transactions by product type and expiry dates
+ImootEIl undrr Calkdlon
+Click to filter your displayed trade activities by altering pe following search criteria
+Search by bank or customer reference number
+Click Advand Bearch for more filtering options
+
+How to view trade transactions
+---
+## How to submit trade applications
+
+Click to view your selected transaction. You can create various trade instruments.
+
+To create a trade transaction:
+
+1. To get to Transaction Create: Trade Finance › Manage › Transaction Create
+2. You can create various trade instruments.
+
+|4|Transaction Detail|
+|---|---|
+|View your Reference Document with a single click| |
+
+Within various instruments, you can input details using templates previously created.
+
+Create Transaction Original
+
+## How to view trade transactions
+---
+## For more information, visit www.dbs.com/ideal
+
+|BusinessCare hotlines for all countries:|
+|---|
+|Singapore|Hong Kong|China|India|
+|1800 222 2200 (Main number)|+852 2290 8068|400 821 8881 (Main number)|1800 419 9500 (Main number / Toll-free: Chennai)|
+|+65 6222 2200 (Others)|+852 3668 9980 (Hong Kong Branch)|+86 755 22233570 (Primary line for overseas callers)|+1800 103 6500 (Toll-free: Chennai)|
+| |+86 21 20610870 (Secondary line for overseas callers)|+91 44 4334 6600 (Others)|
+|Taiwan|Macau| | |
+|0800 808 889 (Main number)| | | |
+|+886 2 6612 9889 (Others)|+853 8895 0632 (Others)|+62 21 1500327 (Main number)|
+
+Upload and attach supporting documents
+
+Standard Clauses
+
+Description
+
+Documents
+
+Document Order
+
+Commercial
+
+Finance
+
+LC
+
+Cancel
+
+View Selected
+
+Append Bulleted
+
+Attach and edit standard clauses
+
+Terms and conditions apply. Information is correct as at the time of printing.
+
+DBS BANK LTD Co.Reg No. 196800306E
+
+March 2016
+
+How to submit trade applications
